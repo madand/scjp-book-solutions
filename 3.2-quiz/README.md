@@ -5,8 +5,8 @@ Compile & run
 -------------
 
 ``` shell
-> javac -d ./out/ ./src/net/madand/Main.java
-> java -cp ./out/ net.madand.Main <arguments>
+> javac Quiz.java
+> java Quiz <arguments>
 ```
 
 Substitute `<arguments>` with the actual answers for questions. Answers are
@@ -16,7 +16,7 @@ Sample output
 -------------
 
 ``` shell
-> java -cp ./out/ net.madand.Main c b b d b c a x
+> java Quiz c b b d b c a x
 | Question | Submitted Ans. | Correct Ans. | Result     |
 |        1 |              C |            C | CORRECT    |
 |        2 |              B |            A | WRONG      |

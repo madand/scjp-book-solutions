@@ -1,6 +1,5 @@
-package net.madand;
 
-public class Main {
+public class Quiz {
     enum Result {CORRECT, WRONG, UNANSWERED}
 
     // Constants
