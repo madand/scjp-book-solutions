@@ -1,4 +1,4 @@
-Solution for exercise 7.1 (Half 1)
+Solution for exercise 7.1 (Function Interface part 1)
 ====================================
 
 Compile & run
