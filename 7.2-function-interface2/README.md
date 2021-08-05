@@ -1,4 +1,4 @@
-Solution for exercise 7.1 (Function Interface part 1)
+Solution for exercise 7.2 (Function Interface part 2)
 ====================================
 
 Compile & run
@@ -13,7 +13,7 @@ Sample output
 -------------
 
 ``` shell
-> java HalfApp1
+> java FunctionApp2
 Input:  1 2 3 4 5 6 7 8 9 10 
 Output: 0 1 1 2 2 3 3 4 4 5
 ```
