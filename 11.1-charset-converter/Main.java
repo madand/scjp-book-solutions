@@ -31,7 +31,7 @@ public final class Main {
 
         var converter = new CharsetConverter(inputCharset, outputCharset);
 
-        // Preform the conversion. Note that the output file will be crated if not exists, or overwritten otherwise.
+        // Preform the conversion. Note that the output file will be created if not exists, or overwritten otherwise.
         try (var inputStream = getFileInputStream(inputFileName);
              var outputStream = getFileOutputStream(outputFileName)) {
             converter.convert(inputStream, outputStream);
