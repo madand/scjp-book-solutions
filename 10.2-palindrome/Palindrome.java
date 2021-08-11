@@ -26,10 +26,10 @@ public class Palindrome {
     }
 
     /**
-     * Check whether the given number is even.
+     * Check whether the given number is odd.
      *
      * @param n the input number.
-     * @return true if the number is even, false if odd.
+     * @return true if the number is odd, false - if even.
      */
     private static boolean isOdd(int n) {
         return n % 2 != 0;
